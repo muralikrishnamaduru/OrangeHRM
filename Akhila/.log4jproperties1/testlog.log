@@ -1,0 +1,36 @@
+2023-01-02 17:47:01,411 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Application  Successfully
+2023-01-02 17:47:01,538 - com.OHRMApplication.LoginFunctionality -ERROR - Login Panel Text
+2023-01-02 17:47:01,578 - com.OHRMApplication.LoginFunctionality -INFO - OHRM LoginPanel is Matched-PASS
+2023-01-02 17:47:01,988 - com.OHRMApplication.LoginFunctionality -INFO - OHRM User Name Successfully
+2023-01-02 17:47:02,112 - com.OHRMApplication.LoginFunctionality -INFO - OHRM paaword Successfully
+2023-01-02 17:47:03,501 - com.OHRMApplication.LoginFunctionality -INFO - OHRM LoginButton Successfully
+2023-01-02 17:47:03,953 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Title is Matched-PASS
+2023-01-02 17:47:03,974 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Current Url is Not Matched-FAIL
+2023-01-02 17:47:04,161 - com.OHRMApplication.LoginFunctionality -INFO - OHRM welcome Admin is Not Matched-FAIL
+2023-01-02 17:47:05,068 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Dash baord Successfully
+2023-01-02 17:47:05,370 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Application photoEditor Successfully
+2023-01-02 17:47:05,629 - com.OHRMApplication.LoginFunctionality -INFO - OHRM pim Element Successfully
+2023-01-09 20:59:55,850 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Application  Successfully
+2023-01-09 20:59:55,997 - com.OHRMApplication.LoginFunctionality -ERROR - Login Panel Text
+2023-01-09 20:59:56,056 - com.OHRMApplication.LoginFunctionality -INFO - OHRM LoginPanel is Matched-PASS
+2023-01-09 20:59:56,361 - com.OHRMApplication.LoginFunctionality -INFO - OHRM User Name Successfully
+2023-01-09 20:59:56,468 - com.OHRMApplication.LoginFunctionality -INFO - OHRM paaword Successfully
+2023-01-09 21:00:01,163 - com.OHRMApplication.LoginFunctionality -INFO - OHRM LoginButton Successfully
+2023-01-09 21:00:01,659 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Title is Matched-PASS
+2023-01-09 21:00:01,673 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Current Url is Not Matched-FAIL
+2023-01-09 21:00:01,843 - com.OHRMApplication.LoginFunctionality -INFO - OHRM welcome Admin is Not Matched-FAIL
+2023-01-09 21:00:02,788 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Dash baord Successfully
+2023-01-09 21:00:04,340 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Application photoEditor Successfully
+2023-01-09 21:00:04,546 - com.OHRMApplication.LoginFunctionality -INFO - OHRM pim Element Successfully
+2023-01-10 11:04:13,926 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Application  Successfully
+2023-01-10 11:04:14,086 - com.OHRMApplication.LoginFunctionality -ERROR - Login Panel Text
+2023-01-10 11:04:14,162 - com.OHRMApplication.LoginFunctionality -INFO - OHRM LoginPanel is Matched-PASS
+2023-01-10 11:04:14,488 - com.OHRMApplication.LoginFunctionality -INFO - OHRM User Name Successfully
+2023-01-10 11:04:14,627 - com.OHRMApplication.LoginFunctionality -INFO - OHRM paaword Successfully
+2023-01-10 11:04:20,022 - com.OHRMApplication.LoginFunctionality -INFO - OHRM LoginButton Successfully
+2023-01-10 11:04:20,458 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Title is Matched-PASS
+2023-01-10 11:04:20,473 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Current Url is Not Matched-FAIL
+2023-01-10 11:04:20,675 - com.OHRMApplication.LoginFunctionality -INFO - OHRM welcome Admin is Not Matched-FAIL
+2023-01-10 11:04:21,773 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Dash baord Successfully
+2023-01-10 11:04:23,358 - com.OHRMApplication.LoginFunctionality -INFO - OHRM Application photoEditor Successfully
+2023-01-10 11:04:23,569 - com.OHRMApplication.LoginFunctionality -INFO - OHRM pim Element Successfully
