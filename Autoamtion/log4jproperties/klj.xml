@@ -1,0 +1,19 @@
+<suite name="facebookFunctionality"   parallel="tests">
+<test name="logintext">
+ <classes>
+  <class name="com.livetech.LiveTech"/>
+   </classes>
+   </test>
+
+<test name="loginFunctionalitytext">           ">
+ <classes>
+  <class name="com.facebook.FacebookLoginText"/>
+   </classes>
+   </test>
+
+<test name="logintext">     
+ <classes>
+  <class name="com.TestNg.OrangeHrm_LoginText"/>
+   </classes>
+   </test>
+  </suite>

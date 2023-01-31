@@ -1,0 +1,14 @@
+<suite name="OHRM Application">
+<test name="login Test">
+  <classes>
+  <class name="com.OHRM.OHRM_AddEmployeeList"/>
+  </classes>
+  </test> 
+
+
+<test name="login Test">
+  <classes>
+  <class name="com.facebook.FacebookLoginTextFacebookLoginText"/>
+  </classes>
+  </test>
+ </suite>

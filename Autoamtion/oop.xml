@@ -1,0 +1,8 @@
+<suite name="OHRM Application">
+<parameter name="browser" value="chrome"/>
+<test name="login Test">
+  <classes>
+  <class name="com.Grid.Grid_Hub"/>
+  </classes>
+  </test> 
+ </suite>
